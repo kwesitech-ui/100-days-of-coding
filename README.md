@@ -1,2 +1,3 @@
-# 100-days-of-coding
-100 days of coding template
+# 100 Days of Code
+
+Welcome! Complete a coding task every day and push your work.
